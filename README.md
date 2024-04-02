@@ -9,10 +9,12 @@ So here goes tools for myself, and maybe for others to use. These are some basic
 ### Processing
 Processing is where utilities for geospatial processing/operation are located
 
-Version Update
+### Version Update
+
 v0.1.1
 - Adding getdata
 - Adding getosm
+
 v0.1.0
 - Adding processing
 - Adding rastermask
