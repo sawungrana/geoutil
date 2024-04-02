@@ -11,6 +11,9 @@ Processing is where utilities for geospatial processing/operation are located
 
 ### Version Update
 
+v0.1.2
+- Adding getarcgisfeature
+
 v0.1.1
 - Adding getdata
 - Adding getosm
